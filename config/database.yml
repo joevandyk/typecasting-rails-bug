@@ -1,7 +1,9 @@
 development:
   adapter: postgresql
   database: typecasting_development
+  username: monkey
 
 test:
   adapter: postgresql
   database: typecasting_test
+  username: monkey
